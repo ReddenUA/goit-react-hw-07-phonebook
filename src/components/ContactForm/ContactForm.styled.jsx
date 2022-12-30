@@ -26,6 +26,6 @@ export const BtnAdd = styled.button`
 
   :hover,
   :focus {
-    background-color: ${props => props.theme.colors.accent};
+    background-color: ${props => props.theme.colors.green};
   }
 `;
